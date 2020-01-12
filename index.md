@@ -10,6 +10,9 @@
 ---
 [Giving Profiles (Coming Soon)](https://github.com/GreatHearts/giving_profiles)
 <img src="images/giving_profiles.png?raw=true"/>
+<br>
+<br>
+An online community that connects people to causes they care about.  The Giving Profiles project is a social network for organizations to connect with each other regarding donations and charities.
 
 ---
 [Haibayo (Coming Soon)]()
