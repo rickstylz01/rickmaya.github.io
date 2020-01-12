@@ -28,12 +28,18 @@ HAIBAYÔ is a monthly event that celebrates Southeast Asian culture through stre
 
 ### Development
 
-- Since participating in the “Grow with Google” scholarship program in 2017-18, my love for web development, and coding in general, has grown exponentially.  I’ve had the great opportunity to work on projects alongside team’s of talented developers that have given me greater insight on how to improve, and grow, the skills I have already acquired, and still need.
+- [Swift Playgrounds Instructor]
+Being involved with the Frida K Community Organization, a not-for-profit organization serving the community as an agent of change in people’s lives, and in the development of strong and thriving neighborhoods, I had the oppertunity to learn the Swift language through Swift Playgrounds, a revolutionary app for iPad that makes learning Swift interactive and fun.  I was the instructor for a new generation of coders based in schools around the south side of Chicago in mostly minority neighberhoods.
+<br>
+<br>
+<img src="images/swift-og.png?raw=true"/>
+<br>
+- [Grow with Google]
+Since participating in the “Grow with Google” scholarship program in 2017-18, my love for web development, and coding in general, has grown exponentially.  I’ve had the great opportunity to work on projects alongside team’s of talented developers that have given me greater insight on how to improve, and grow, the skills I have already acquired, and still need.
 <br>
 <br>
 <img src="images/GrowWithGoogleDeveloperChallengeScholarship.png?raw=true"/>
 <br>
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
