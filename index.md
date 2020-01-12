@@ -12,7 +12,7 @@
 <img src="images/giving_profiles.png?raw=true"/>
 
 ---
-[Haibayo (Coming Soon)]
+[Haibayo (Coming Soon)]()
 <img src="images/Haibayo.png?raw=true"/>
 
 ---
