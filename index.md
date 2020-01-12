@@ -41,7 +41,7 @@ Since participating in the “Grow with Google” scholarship program in 2017-18
 <img src="images/GrowWithGoogleDeveloperChallengeScholarship.png?raw=true"/>
 <br>
 - [Cool Cats Coding]
-Cool Cats is a collective of coding developers and engineers who provide mentoring, help, and resources to anyone who wants to learn.  I was blessed to know someone who helped found the group and introduced me to the world of coding.
+Cool Cats is a collective of coding developers and engineers who provide mentoring, help, and resources to anyone who wants to learn.  I was fortunate enough to know someone who helped found the group and introduced me to the world of coding.
 <br>
 <br>
 <img src="images/cool_cats.jpg?raw=true"/>
