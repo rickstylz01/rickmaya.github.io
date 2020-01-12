@@ -4,7 +4,7 @@
 
 ### Projects  
 
-[Battle Grounds](https://www.battlegridmovie.com/)
+[BattleGrid](https://www.battlegridmovie.com/)
 <img src="images/BattleGrid.png?raw=true"/>
 
 ---
