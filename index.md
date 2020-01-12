@@ -2,14 +2,14 @@
 
 ---
 
-### ClockIn Films  
+### Projects  
 
 [Battle Grounds](https://www.battlegridmovie.com/)
 <img src="images/BattleGrid.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Giving Profiles](/pdf/sample_presentation.pdf)
+<img src="images/giving-profiles.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
