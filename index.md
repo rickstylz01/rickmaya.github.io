@@ -8,12 +8,12 @@
 <img src="images/BattleGrid.png?raw=true"/>
 
 ---
-[Giving Profiles](https://github.com/GreatHearts/giving_profiles)
+[Giving Profiles (Coming Soon](https://github.com/GreatHearts/giving_profiles)
 <img src="images/giving_profiles.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Haibayo](Coming Soon)
+<img src="images/Haibayo.png?raw=true"/>
 
 ---
 
