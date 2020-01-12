@@ -8,11 +8,11 @@
 <img src="images/BattleGrid.png?raw=true"/>
 
 ---
-[Giving Profiles (Coming Soon](https://github.com/GreatHearts/giving_profiles)
+[Giving Profiles (Coming Soon)](https://github.com/GreatHearts/giving_profiles)
 <img src="images/giving_profiles.png?raw=true"/>
 
 ---
-[Haibayo](Coming Soon)
+[Haibayo (Coming Soon)]
 <img src="images/Haibayo.png?raw=true"/>
 
 ---
