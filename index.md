@@ -8,8 +8,8 @@
 <img src="images/BattleGrid.png?raw=true"/>
 
 ---
-[Giving Profiles](/pdf/sample_presentation.pdf)
-<img src="images/giving-profiles.png?raw=true"/>
+[Giving Profiles](https://github.com/GreatHearts/giving_profiles)
+<img src="images/giving_profiles.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
