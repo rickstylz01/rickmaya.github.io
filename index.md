@@ -30,6 +30,7 @@ HAIBAYÔ is a monthly event that celebrates Southeast Asian culture through stre
 
 - Since participating in the “Grow with Google” scholarship program in 2017-18, my love for web development, and coding in general, has grown exponentially.  I’ve had the great opportunity to work on projects alongside team’s of talented developers that have given me greater insight on how to improve, and grow, the skills I have already acquired, and still need.
 <br>
+<br>
 <img src="images/GrowWithGoogleDeveloperChallengeScholarship.png?raw=true"/>
 <br>
 - [Project 2 Title](http://example.com/)
