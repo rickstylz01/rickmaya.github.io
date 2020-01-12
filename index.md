@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### ClockIn Films  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Battle Grounds](https://www.battlegridmovie.com/)
+<img src="images/BattleGrid.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
