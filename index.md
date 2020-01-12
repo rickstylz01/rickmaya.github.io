@@ -6,6 +6,9 @@
 
 [BattleGrid](https://www.battlegridmovie.com/)
 <img src="images/BattleGrid.png?raw=true"/>
+<br>
+<br>
+BattleGrid takes place in the distant future, the year 2064. The story follows Vail, who is seeking revenge for his brother’s untimely death. 
 
 ---
 [Giving Profiles (Coming Soon)](https://github.com/GreatHearts/giving_profiles)
@@ -15,8 +18,11 @@
 An online community that connects people to causes they care about.  The Giving Profiles project is a social network for organizations to connect with each other regarding donations and charities.
 
 ---
-[Haibayo (Coming Soon)]()
+[Haibayô (Coming Soon)]()
 <img src="images/Haibayo.png?raw=true"/>
+<br>
+<br>
+HAIBAYÔ is a monthly event that celebrates Southeast Asian culture through street food, drink, and soulful vibes. Our culturally curated nighttime events energizes the historic Asia on Argyle corridor.
 
 ---
 
