@@ -11,7 +11,7 @@
 BattleGrid takes place in the distant future, the year 2064. The story follows Vail, who is seeking revenge for his brother’s untimely death. 
 
 ---
-[Giving Profiles (Coming Soon)](https://github.com/GreatHearts/giving_profiles)
+[Giving Profiles (Coming Soon)](http://givingprofiles.org/about)
 <img src="images/giving_profiles.png?raw=true"/>
 <br>
 <br>
